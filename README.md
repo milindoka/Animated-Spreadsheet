@@ -1,6 +1,7 @@
 # Animated Spreadsheet
 
 An interactive, animated spreadsheet implementation with a unique user interface and smooth transitions.
+Modify Column Array, Width Array and Max Character Array as per your need
 
 ## Features
 
